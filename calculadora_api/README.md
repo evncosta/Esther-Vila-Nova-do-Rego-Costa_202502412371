@@ -66,3 +66,12 @@ A API é inteligente o suficiente para barrar operações inválidas e avisar o 
 * Se os campos obrigatórios foram preenchidos.
 * Prevenção contra erro de divisão por zero.
 * Nomes de operações inválidos.
+
+---
+
+## 👥 Integrantes da Equipe
+
+Este projeto foi desenvolvido pelas alunas:
+
+* **Esther Vila Nova do Rêgo Costa** - Matrícula: 202502412371 - [GitHub](https://github.com/evncosta)
+* **Beatriz Vila Nova do Rêgo Costa** - Matrícula: 202503265356 - [GitHub](https://github.com/beatrizvnn)

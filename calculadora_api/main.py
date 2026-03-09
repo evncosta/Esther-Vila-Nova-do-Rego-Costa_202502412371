@@ -35,5 +35,5 @@ def calcular_resultado(a: float, b: float, tipo: str):
     return {
         "a": a,
         "b": b,
-        "resultado": resultado,
+        "resultado": resultado
     }

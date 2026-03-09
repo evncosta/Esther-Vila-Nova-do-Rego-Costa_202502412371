@@ -1,3 +1,13 @@
+"""
+Projeto: Calculadora API com FastAPI
+Disciplina: RAD - Python
+Integrantes: 
+- Esther Vila Nova do Rêgo Costa - 202502412371
+- Beatriz Vila Nova do Rêgo Costa - 202503265356
+
+Data: Março de 2026
+"""
+
 from fastapi import FastAPI
 
 # Cria a API
